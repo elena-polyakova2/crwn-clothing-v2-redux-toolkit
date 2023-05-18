@@ -5,33 +5,33 @@ import { DirectoryContainer } from './directory.styles';
 const categories = [
   {
     id: 1,
-    title: 'hats',
-    imageUrl: 'https://i.ibb.co/cvpntL1/hats.png',
-    route: 'shop/hats',
+    title: 'bycicles',
+    imageUrl: 'https://i.ibb.co/GMqNQVx/bright-pink-bike.jpg',
+    route: 'shop/bicycles',
   },
   {
     id: 2,
-    title: 'jackets',
-    imageUrl: 'https://i.ibb.co/px2tCc3/jackets.png',
-    route: 'shop/jackets',
+    title: 'table games',
+    imageUrl: 'https://i.ibb.co/Js97qrq/go-game.jpg',
+    route: 'shop/table%20games',
   },
   {
     id: 3,
-    title: 'sneakers',
-    imageUrl: 'https://i.ibb.co/0jqHpnp/sneakers.png',
-    route: 'shop/sneakers',
+    title: 'SPORT BALLS',
+    imageUrl: 'https://i.ibb.co/dLPmtYM/ball.jpg',
+    route: 'shop/sport%20balls',
   },
   {
     id: 4,
-    title: 'womens',
-    imageUrl: 'https://i.ibb.co/GCCdy8t/womens.png',
-    route: 'shop/womens',
+    title: 'OUTDOOR SPORT & GAMES',
+    imageUrl: 'https://i.ibb.co/RbqCGK1/kayak.jpg',
+    route: 'shop/outdoor%20sport%20&%20games',
   },
   {
     id: 5,
-    title: 'mens',
-    imageUrl: 'https://i.ibb.co/R70vBrQ/men.png',
-    route: 'shop/mens',
+    title: 'CHILDREN\'S SPORT & GAME',
+    imageUrl: 'https://i.ibb.co/KrdFrRs/trampoline.jpg',
+    route: 'shop/children\'s%20sport%20&%20games',
   },
 ];
 
